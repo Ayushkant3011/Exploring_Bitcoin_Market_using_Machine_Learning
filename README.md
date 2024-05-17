@@ -24,7 +24,14 @@ Image of our project
 
 
 Output of KNN Algorithm
+
+
+
 ![image](https://github.com/Ayushkant3011/Exploring_Bitcoin_Market_using_Machine_Learning/assets/142834568/27b93ee5-da3b-413b-82f7-aa25bb88794a)
+
+
+
+
 
 
 
